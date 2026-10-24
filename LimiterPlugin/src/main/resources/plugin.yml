@@ -1,0 +1,5 @@
+name: LimiterPlugin
+version: 1.0.0
+main: fr.limiter.LimiterPlugin
+api-version: '26.3'
+description: Limite netherite, enchantements, cooldowns perles/mace.
